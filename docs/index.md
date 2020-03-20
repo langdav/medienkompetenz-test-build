@@ -24,11 +24,11 @@ feature_row_ilos:
 Startseite des Medienkompetenz-Onlineauftritts.
 Hier am Besten eine Kurze Beschreibung und Zusammenfassung der Kursinhalte.
 
-# Lernziele
+## Lernziele
 
 .....
 
-# Ablauf
+## Ablauf
 
 | Kurstag | Themen | Aufgaben |
 |-------|--------|---------|
@@ -39,6 +39,8 @@ Hier am Besten eine Kurze Beschreibung und Zusammenfassung der Kursinhalte.
 | 05 | Mediennutung                         | ... |
 | 06 | Lust auf mehr                        | ... |
 
+## Aufgaben, Abgaben und Bewertung
+Zu jeder Lehreinheit gibt es Aufgaben, die innerhalb einer Woche bearbeitet und unter folgendem Link (*Link*) hochgeladen werden müssen. Die Aufgaben können Levels geloest werden, wobei Level 1-Aufgaben die leichtesten und Level 3-Aufgaben die schwersten sind. Dabei gilt, werden alle Aufgaben auf Level 1 geloest und bestanden, reicht das erlangte Wissen zum bestehen der Abschlusspruefung (Loesen aller Prüfungsaufgaben der Level-1-Stufe). Das zusätzliche Loesen von Aufgaben der Level 2 und 3 befaehigen zum Bestehen der Pruefung mit einer besseren Note (Loesen der Pruefungsaufgaben der Level-Stufen 2 und 3).
 
-# Instructor
+## Instructor
 {% include author-profile.html %}

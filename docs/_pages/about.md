@@ -3,7 +3,7 @@ title: About
 permalink: /about.html
 ---
 
-Dieser Kurs ist ein Teil der [Open Educational Resources](https://oer.uni-marburg.de) Initiative der [Philipps Universität Marburg](https://www.uni-marburg.de/de) und der Arbeitsgruppe [Umweltinformatik](https://www.uni-marburg.de/fb19/fachgebiete/umweltinformatik/) des [Fachbereichs Geographie](https://www.uni-marburg.de/fb19).
+Dieser Kurs ist ein Teil der [Open Educational Resources](https://oer.uni-marburg.de) Initiative der [Philipps Universitaet Marburg](https://www.uni-marburg.de/de) und der Arbeitsgruppe [Umweltinformatik](https://www.uni-marburg.de/fb19/fachgebiete/umweltinformatik/) des [Fachbereichs Geographie](https://www.uni-marburg.de/fb19).
 
 The responsibility for the content rests with the instructors. Statements, opinions and/or conclusions are the ones from the instructors and do not necessarily reflect the opinion of the representatives of Marburg University.  
 
