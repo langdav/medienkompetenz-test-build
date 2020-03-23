@@ -36,7 +36,7 @@ Hier am Besten eine Kurze Beschreibung und Zusammenfassung der Kursinhalte.
 | 02 | Raumbeschreibung                     | ... |
 | 03 | Datenerfassung                       | ... |
 | 04 | Datenverschneidung & -visualisierung | ... |
-| 05 | Mediennutung                         | ... |
+| 05 | Mediennutzung                         | ... |
 | 06 | Lust auf mehr                        | ... |
 
 ## Aufgaben, Abgaben und Bewertung
